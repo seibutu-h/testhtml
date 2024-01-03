@@ -4,7 +4,7 @@ gitを使って簡単なWebの公開とそのページでHTML5+Javaでの音が�
 
 # 残課題
 
-  Webを表示する<br>
+  済_Webを表示する<br>
   Webの表示を好みに調整する<br>
   javaを動かす<br>
   CSSを動かす<br>
