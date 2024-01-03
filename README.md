@@ -16,6 +16,6 @@ gitを使って簡単なWebの公開とそのページでHTML5+Javaでの音が�
 自分で作ったWebページをインターネット上に公開しよう！  
 https://prog-8.com/docs/github-pages  
 
-(2)html5の書き方とか属性とかそのあたりを確認するために使用
-HTML5入門 HTML5の基本から、要素や属性のリファレンスまで。
-http://html5.cyberlab.info/
+(2)html5の書き方とか属性とかそのあたりを確認するために使用  
+HTML5入門 HTML5の基本から、要素や属性のリファレンスまで。  
+http://html5.cyberlab.info/  
